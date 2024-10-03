@@ -16,7 +16,12 @@
     "reactstrap": "8.10.0",
     "sass": "1.62.1"
   },
+  
+  "homepage": "http://kennya2709.github.io/reyes_examen_parcial1/",
+
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
