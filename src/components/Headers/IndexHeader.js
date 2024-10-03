@@ -40,7 +40,7 @@ function IndexHeader() {
               src={require("assets/img/Kennya_prof.jpg")}
             ></img>
             <h1 className="h1-seo">Universidad tecnologica de durango</h1>
-            <h3>Nombre del alumno: Kennya Alexandra Orona Cumplido</h3>
+            <h3>Nombre del alumno: Orona Cumplido Kennya Alexandra</h3>
             <p>Gestión del proceso de software</p>
             <p>Parcial 1</p>
           </div>
