@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/reyes_examen_parcial1/static/css/main.6a6a830c.css",
-    "main.js": "/reyes_examen_parcial1/static/js/main.f18b6c13.js",
+    "main.js": "/reyes_examen_parcial1/static/js/main.b4d89b40.js",
     "static/media/hero-image-1.png": "/reyes_examen_parcial1/static/media/hero-image-1.33f10ca8d00cbcdb340e.png",
     "static/media/header.jpg": "/reyes_examen_parcial1/static/media/header.2cb9b14bf49346eb410d.jpg",
     "static/media/hero-image-2.png": "/reyes_examen_parcial1/static/media/hero-image-2.876d72184b5448408fd8.png",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.6a6a830c.css",
-    "static/js/main.f18b6c13.js"
+    "static/js/main.b4d89b40.js"
   ]
 }
